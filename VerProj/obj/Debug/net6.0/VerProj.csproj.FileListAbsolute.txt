@@ -1,0 +1,15 @@
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.csproj.AssemblyReference.cache
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.AssemblyInfoInputs.cache
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.AssemblyInfo.cs
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.csproj.CoreCompileInputs.cache
+E:\C#\FQVerificationWork\VerProj\bin\Debug\net6.0\VerProj.exe
+E:\C#\FQVerificationWork\VerProj\bin\Debug\net6.0\VerProj.deps.json
+E:\C#\FQVerificationWork\VerProj\bin\Debug\net6.0\VerProj.runtimeconfig.json
+E:\C#\FQVerificationWork\VerProj\bin\Debug\net6.0\VerProj.dll
+E:\C#\FQVerificationWork\VerProj\bin\Debug\net6.0\VerProj.pdb
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.dll
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\refint\VerProj.dll
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.pdb
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\VerProj.genruntimeconfig.cache
+E:\C#\FQVerificationWork\VerProj\obj\Debug\net6.0\ref\VerProj.dll
